@@ -1,3 +1,5 @@
 push this to github branch develop and see gitlab (did not work)
 
-merge develop branch into main and see, if pull-request (merge-request) triggers mirroring to gitlab
+merge develop branch into main and see, if pull-request (merge-request) triggers mirroring to gitlab (did work)
+
+test git flow feature branch push to develop and see gitlab 
