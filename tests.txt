@@ -1,9 +1,1 @@
-push this to github branch develop and see gitlab (did not work)
-
-merge develop branch into main and see, if pull-request (merge-request) triggers mirroring to gitlab (did work)
-
-test git flow feature branch push to develop and see gitlab (did work but cant see graph correct)
-
-test more commits in feature branch and merge to see graph more, now change something in develop branch now
-
-test change in feature branch while develop is one commit ahead
+change somethin in main
